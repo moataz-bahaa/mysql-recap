@@ -1,0 +1,16 @@
+
+***************** normalization *****************
+
+NF -> Normal Form
+
+1NF:-
+  each cell should have a single value and we cannot have repeated columns
+
+2NF:-
+  - first be in the 1NF then
+  - every table should descibe one entity,
+    and every column in that table should descibe that entity
+
+3NF:-
+  - the entity is in the second
+  - a column in a table sould not be derived from another column
